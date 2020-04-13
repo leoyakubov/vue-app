@@ -1,5 +1,7 @@
 # vue-app
 
+[Demo](https://leoyakubov.github.io/vue-app/).
+
 ## Project setup
 ```
 npm install
